@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jainishgupta
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m currently learning Game developement
 - 🏪 I'm currently working as CTO and A managing Director at Class And Class(Find And Analyze PVT LTD)
 - 📫 How to reach me jainishgupta84@gmail.com
 
