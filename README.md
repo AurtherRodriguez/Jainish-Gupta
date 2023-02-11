@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jainishgupta
-- 🌱 I’m currently learning Game developement
 - 🏪 I'm currently working as JR. Game Programmer at Tecknotrove PVT LTD
 - 📫 How to reach me jainishgupta2000@gmail.com
 
