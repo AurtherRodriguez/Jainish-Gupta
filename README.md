@@ -1,5 +1,10 @@
 - 👋 Hi, I’m @jainishgupta
-- 🏪 I'm currently working as JR. Game Programmer at Tecknotrove PVT LTD
+
+- Game Developer with a year of focused industry experience and the proper foundation of education in Computer Engineering. 
+  Proud team player on the job and as a part of my Cricket team. 
+  My professional skills in C# and UNITY are backed by solid interpersonal skills to ensure my fast adaptation to anyenvironment.
+  
+  
 - 📫 How to reach me jainishgupta2000@gmail.com
 
 <!---
